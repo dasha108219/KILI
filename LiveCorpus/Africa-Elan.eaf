@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2017-12-09T21:04:41+04:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/Asus/Downloads/MVI_1618-1 (1).avi" MIME_TYPE="video/*" RELATIVE_MEDIA_URL="../Downloads/MVI_1618-1 (1).avi"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:efcf6bb1-51f9-4aae-ac6f-6e5d253d8db1</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">24</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="10"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="4110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="5910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="12100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="13490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="21090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="22180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="27850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="28480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="48870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="48950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="50100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="50960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="71480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="72450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="76180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="76180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="90340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="91100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="104100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="104100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="111250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="112680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="117520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="118520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="125420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="126490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="136000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="136900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="153910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="153910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="165250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="166630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="194410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="194890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="221120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="221580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="229650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="230420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="231580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="232920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="234500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="234900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="270380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="272310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="285480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="286600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="288160"/>
+    </TIME_ORDER>
+    <TIER DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="paragraph" TIER_ID="Ольга@text">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>Однажды довелось нам быть в Африке. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>эээ, мы путешествовали по Африке два... две недели всего лишь и в основном были в Уганде и в Кении.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>эээ,  Уганда-страна небогатая, прямо скажем, если не сказать бедная, но тем не менее там тоже есть много чего посмотреть.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>Одно из самых запоминающихся мест-это угандийский зоопарк, в Энтебе он, по-моему, находится.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>Вообще зоопарки я не люблю, но эээ тем не менее вот в Уганде мы пошли, так как нам было предложено, и я подумала, что, наверное, там животные, те самые, которые ммм мы видим на картинках, там мы их увидим, можно сказать, в дикой природе.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>Так оно и случилось. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>Вот, угандийский зоопарк- это, конечно, интересно, потому что там нет клеток и мммм животные, самые, с... самые-самые разнообразные, они на... ну почти что в естественной среде,от... от зрителя не отгорожены там буквально большими барьерами. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>Вот, но сейчас я хочу рассказать о ... о другой вещи.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>Когда мы приехали в зоопарк, оказалось, что мы там, ну можно сказать, с мужем были только эээ единственные, наверно, взрослые... эм... взрослые посетители, но было очень-очень много детей. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>эм, они съезжались из разных школ, ммм, их привозили на автобусах, они, как птички, выпархивали, потому что у каждой школы своя форма,с... с... c... свой цвет. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>И вот они такая разношерстная толпа м... африканских детишек гуляла по ... по зоопарку. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>Мы ходили, смотрели животных, и тут дети нас обнаружили. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>И я так понимаю, что для детей тот день тоже был памятен, потому что они впервые увидели белых людей. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>эээ, африканские дети, сами понимаете, эээ , черные, и , ммм, ро...мм... белые взрослые люди были для них в ди...диковинку. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>Когда мы подходили к кле... ну к клетке или там к ограждению с каким-нибудь животным, эээ, дети, эээ, не смотрели на животных, они обступали нас со всех сторон, раскрыв рты, там высунув язык, они пытались нас потрогать. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>Вот я в тот момент ,вот это был, наверное, единственный случай, когда я чувствовала себя ммм заморской зверюшкой, которую посадили в клетку и вот эм не знают,что с ней делать. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>Они подходили к нам,они ммм пытались нас потрогать, а самая храбрая девочка даже подошла и вот ммм, кокетничая, попыталась с нами заговорить, там сказав, ее так-то зовут, ей столько-то лет, вот ей иии, и в общем ммм как вы живете, она попыталась сказать. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>И потом когда мы за ней наблюдали со стороны, было видно, что она была героиней в...с .. в толпе своих школьников, потому что вот плечи расправлены, она шествует важно, в спокойствии чинном, и ммм дети на нее смотрят, вот мол да повезло тебе, аж видела белых и... и разговаривала с белыми людьми. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>То есть вот я оказалась в эпицентре таких событий. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>Долго мне еще говорить? </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>А, еще минуту рассказывать? </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>вот, ну ладно, тогда расскажу про носорога, потому что, когда мы подошли к носорогу поближе, обнаружилось, что это такая машина просто страшная, она такая, эта машина, эээ, ужасная и эээ ог... огромная ммм огромное животное, опустив эээ рог, на тебя несется, эээ, ну поджилки трясутся на самом деле, потому что одно дело в книжечке посмотреть, другое дело вот... </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>И хотя мы понимали, что нам носорог ничего не сможет сделать, он до нас никак не дотянется, никак он на.. нас не.. не повредит, но стоять рядом с ограждением было страшно. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>вот, так что всем советую.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="paragraph" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="association" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="subdivision" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
